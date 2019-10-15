@@ -1,11 +1,11 @@
 title: Dougal Dobie # your name (or website title) here
 logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Astrophysics PhD Student
+  PhD Student at Uni Sydney & CSIRO
   <br><br>
   Radio Transients, Gravitational Waves
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0699-7019" href="https://orcid.org/0000-0003-0699-7019" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a></div>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
