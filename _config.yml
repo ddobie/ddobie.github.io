@@ -1,6 +1,7 @@
 title: Dougal Dobie # your name (or website title) here
-logo: "/images/headshot.png?raw=true" # your photo (or logo) here
+logo: "/images/headshot.png"#?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   PhD Student at Uni Sydney & CSIRO
   <br><br>
   Radio Transients, Gravitational Waves
