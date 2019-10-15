@@ -13,7 +13,8 @@ I am the Principal Investigator on a project to observe radio afterglows of grav
 
 I have written 2 first-author papers and am a co-author on 11 more. My h-index is 10 with over 1900 total citations. A full list of my publications can be found <a href="https://ui.adsabs.harvard.edu/public-libraries/PCsVV4a_S--oQvEwCMNCGA">here</a>. Some highlights can be found below
 
-##
+### A turnover in the radio lightcurve of GW170817
+<a href="https://arxiv.org/abs/1803.06853" class="btn btn--primary">Read paper</a>
 
 ## Portfolio
 
