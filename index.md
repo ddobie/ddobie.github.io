@@ -21,6 +21,7 @@ A full list of my publications can be found <a href="https://ui.adsabs.harvard.e
 ### <a href="https://arxiv.org/abs/1903.01481">An optimised gravitational wave follow-up strategy with the Australian Square Kilometre Array Pathfinder (Dobie et al. 2019)</a>
 <a href="https://arxiv.org/abs/1903.01481"><img src="images/askap_gw170817.png?raw=true"/></a>
 
+{% comment %} 
 ## Portfolio
 
 ---
@@ -49,7 +50,7 @@ A full list of my publications can be found <a href="https://ui.adsabs.harvard.e
 - [Project 5 Title](http://example.com/)
 
 ---
-
+{% endcomment %}
 
 
 
