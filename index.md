@@ -57,6 +57,8 @@ A full list of my publications can be found <a href="https://ui.adsabs.harvard.e
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>.</p>
 
+[B]<script type="text/javascript">[/B]
+
 <!--
 var m = "This page was last updated: " + document.lastModified;
 var p = m.length-8;
