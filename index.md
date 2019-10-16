@@ -34,11 +34,15 @@ Along with general tuition of various undergraduate physics courses, I helped de
 <br>
 I have also developed modules for the <a href="http://growth.caltech.edu/growth-winter-school-2018.html">GROWTH Winter School 2018</a> and <a href="http://growth.caltech.edu/growth-school-2019.html">GROWTH Summer School 2019</a> that teach students how to use <a href="https://emcee.readthedocs.io/en/stable/">emcee</a> for lightcurve fitting. I presented a similar module as an invited speaker at the <a href="https://indico.skatelescope.org/event/564/">5th SKA Summer School</a> at the Shanghai Astronomical Observatory.
 
-## Outreach
+## Outreach and Media
 
 ---
 
 I have a strong passion for communicating my research to the public and have had the opportunity to do that at Sydney Observatory since 2016. In 2017 I spent two weeks working as the CAASTRO Astronomer In Residence at Uluru, and have given talks to high schools, undergraduate students and the general public.
+
+My involvement in the first discovery of a neutron star merger attracted national media attention, including articles in the <a href="https://www.smh.com.au/technology/revelation-of-cosmic-secrets-triggers-a-frenzy-of-global-scientific-activity-20171016-gz1hmw.html">Sydney Morning Herald</a>, <a href="https://www.theaustralian.com.au/news/health-science/neutron-star-collision-a-turning-point-in-scientific-history/news-story/45d782fc44bcc447dd7abbd831bd709d">The Australian</a> and <a href="https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106">The Conversation</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EuFxRAYxs2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% comment %} 
 ## Portfolio
