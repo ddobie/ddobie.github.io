@@ -46,7 +46,9 @@ My involvement in the first discovery of a neutron star merger attracted nationa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EuFxRAYxs2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
+
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>.</p>
 
 <!-- Remove above link if you don't want to attibute -->
