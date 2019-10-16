@@ -6,6 +6,8 @@ I am a third-year PhD student searching for radio transients, but with an intere
 
 I am the Principal Investigator on a project to observe radio afterglows of gravitational wave events with the Australia Telescope Compact Array (ATCA), for which we have been allocated 750 hours of observing time. I am also a member of the JAGWAR collaboration, which uses the worlds leading radio facilities for gravitational wave follow-up and am a co-Investigator on proposals with the Australian Square Kilometre Array Pathfinder, the Very Large Array, and the Giant Metrewave Radio Telescope.
 
+You can find my CV <a href="/pdf/CV.pdf">here.</a>
+
 
 ## Publications
 
