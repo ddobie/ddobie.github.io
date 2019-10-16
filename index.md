@@ -6,7 +6,7 @@ I am a third-year PhD student searching for radio transients, but with an intere
 
 I am the Principal Investigator on a project to observe radio afterglows of gravitational wave events with the Australia Telescope Compact Array (ATCA), for which we have been allocated 750 hours of observing time. I am also a member of the JAGWAR collaboration, which uses the worlds leading radio facilities for gravitational wave follow-up and am a co-Investigator on proposals with the Australian Square Kilometre Array Pathfinder, the Very Large Array, and the Giant Metrewave Radio Telescope.
 
-You can find my CV <a href="/pdf/CV.pdf">here.</a>
+You can find my CV <a href="/pdf/CV.pdf">here</a> and read about my publications, teaching and outreach below.
 
 
 ## Publications
@@ -27,12 +27,18 @@ A full list of my publications can be found <a href="https://ui.adsabs.harvard.e
 
 ---
 
-<p>Along with general tuition of various undergraduate physics courses, I helped develop <a href="https://www.coursera.org/learn/data-driven-astronomy">Data Driven Astronomy</a>, offered by the University of Sydney via Coursera.</p>
+Along with general tuition of various undergraduate physics courses, I helped develop <a href="https://www.coursera.org/learn/data-driven-astronomy">Data Driven Astronomy</a>, offered by the University of Sydney via Coursera.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IzVETSVp4Nw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
-<p>I have also developed modules for the <a href="http://growth.caltech.edu/growth-winter-school-2018.html">GROWTH Winter School 2018</a> and <a href="http://growth.caltech.edu/growth-school-2019.html">GROWTH Summer School 2019</a> that teach students how to use <a href="https://emcee.readthedocs.io/en/stable/">emcee</a> for lightcurve fitting. I presented a similar module as an invited speaker at the <a href="https://indico.skatelescope.org/event/564/">5th SKA Summer School</a> at the Shanghai Astronomical Observatory.</p>
+I have also developed modules for the <a href="http://growth.caltech.edu/growth-winter-school-2018.html">GROWTH Winter School 2018</a> and <a href="http://growth.caltech.edu/growth-school-2019.html">GROWTH Summer School 2019</a> that teach students how to use <a href="https://emcee.readthedocs.io/en/stable/">emcee</a> for lightcurve fitting. I presented a similar module as an invited speaker at the <a href="https://indico.skatelescope.org/event/564/">5th SKA Summer School</a> at the Shanghai Astronomical Observatory.
+
+## Outreach
+
+---
+
+I have a strong passion for communicating my research to the public and have had the opportunity to do that at Sydney Observatory since 2016. In 2017 I spent two weeks working as the CAASTRO Astronomer In Residence at Uluru, and have given talks to high schools, undergraduate students and the general public.
 
 {% comment %} 
 ## Portfolio
