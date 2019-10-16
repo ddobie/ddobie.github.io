@@ -7,6 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Radio Transients, Gravitational Waves
   <br><br>
   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0699-7019" href="https://orcid.org/0000-0003-0699-7019" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a></div>
-  <a href = "mailto: ddob1600@uni.sydney.edu.au"><img src="/images/email_glyph.png">Email</a>
+  <a href = "mailto: ddob1600@uni.sydney.edu.au"><img src="/images/email_glyph.png"> Email</a>
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
