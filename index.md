@@ -23,6 +23,11 @@ A full list of my publications can be found <a href="https://ui.adsabs.harvard.e
 ### <a href="https://arxiv.org/abs/1903.01481">An optimised gravitational wave follow-up strategy with the Australian Square Kilometre Array Pathfinder</a>
 <a href="https://arxiv.org/abs/1903.01481"><img src="images/askap_gw170817.png?raw=true"/></a>
 
+## Teaching
+
+Along with general tuition of various undergraduate physics courses, I helped develop <a href="https://www.coursera.org/learn/data-driven-astronomy">Data Driven Astronomy</a>, offered by the University of Sydney via Coursera.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzVETSVp4Nw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {% comment %} 
 ## Portfolio
 
