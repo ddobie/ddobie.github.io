@@ -11,10 +11,15 @@ I am the Principal Investigator on a project to observe radio afterglows of grav
 
 ---
 
-I have written 2 first-author papers and am a co-author on 11 more. My h-index is 10 with over 1900 total citations. A full list of my publications can be found <a href="https://ui.adsabs.harvard.edu/public-libraries/PCsVV4a_S--oQvEwCMNCGA">here</a>. Some highlights can be found below
+I have written 2 first-author papers and am a co-author on 11 more. My h-index is 10 with over 1900 total citations. I also regularly publish transients results circulated via the <a href="http://www.astronomerstelegram.org">Astronomer's Telegram</a> and the <a href="https://gcn.gsfc.nasa.gov/gcn3_archive.html">Gamma-ray Coordinates Network</a>.
 
-### <a href="https://arxiv.org/abs/1803.06853">A turnover in the radio lightcurve of GW170817</a>
+A full list of my publications can be found <a href="https://ui.adsabs.harvard.edu/public-libraries/PCsVV4a_S--oQvEwCMNCGA">here</a>. Some highlights can be found below
+
+### <a href="https://arxiv.org/abs/1803.06853">A turnover in the radio lightcurve of GW170817 (Dobie et al. 2018)</a>
 <a href="https://arxiv.org/abs/1803.06853"><img src="images/radio_turnover.png?raw=true"/></a>
+
+### <a href="https://arxiv.org/abs/1903.01481">An optimised gravitational wave follow-up strategy with the Australian Square Kilometre Array Pathfinder (Dobie et al. 2019)</a>
+<a href="https://arxiv.org/abs/1903.01481"><img src="images/askap_gw170817.png?raw=true"/></a>
 
 ## Portfolio
 
