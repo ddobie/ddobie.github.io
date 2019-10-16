@@ -28,7 +28,7 @@ A full list of my publications can be found <a href="https://ui.adsabs.harvard.e
 Along with general tuition of various undergraduate physics courses, I helped develop <a href="https://www.coursera.org/learn/data-driven-astronomy">Data Driven Astronomy</a>, offered by the University of Sydney via Coursera.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IzVETSVp4Nw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I have also developed modules for the <a href="http://growth.caltech.edu/growth-winter-school-2018.html">GROWTH Winter School 2018</a> and <a href="http://growth.caltech.edu/growth-school-2019.html">GROWTH Summer School 2019</a> that teach students how to use <a href="https://emcee.readthedocs.io/en/stable/>emcee</a> for lightcurve fitting. I presented a similar module as an invited speaker at the <a href="https://indico.skatelescope.org/event/564/">5th SKA Summer School</a> at the Shanghai Astronomical Observatory.
+I have also developed modules for the <a href="http://growth.caltech.edu/growth-winter-school-2018.html">GROWTH Winter School 2018</a> and <a href="http://growth.caltech.edu/growth-school-2019.html">GROWTH Summer School 2019</a> that teach students how to use <a href="https://emcee.readthedocs.io/en/stable/">emcee</a> for lightcurve fitting. I presented a similar module as an invited speaker at the <a href="https://indico.skatelescope.org/event/564/">5th SKA Summer School</a> at the Shanghai Astronomical Observatory.
 
 {% comment %} 
 ## Portfolio
