@@ -1,5 +1,5 @@
 # Publications
-
+Below you can find a list of all of my [first author publications](#refereed-publications-first-author), [co-authored publications](#refereed-publications-co-author)
 
 ## Refereed publications (first author)
 #### <a href="https://arxiv.org/abs/1903.01481">An optimised gravitational wave follow-up strategy with the Australian Square Kilometre Array Pathfinder (Dobie et al. 2019)</a>
