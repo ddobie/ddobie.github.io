@@ -2,7 +2,9 @@
 Below you can find a list of all of my [first author publications](#refereed-publications-first-author), [co-authored publications](#refereed-publications-co-author)
 
 ## Refereed publications (first author)
-#### <a href="https://arxiv.org/abs/1903.01481">An optimised gravitational wave follow-up strategy with the Australian Square Kilometre Array Pathfinder (Dobie et al. 2019)</a>
+I have written two first author publications with over 60 citations between them. My paper "A turnover in the radio lightcurve of GW170817 (Dobie et al. 2018)" was awarded the University of Sydney Faculty of Science Postgraduate Research Prize for Outstanding Academic Achievement in 2019.
+
+#### [An optimised gravitational wave follow-up strategy with the Australian Square Kilometre Array Pathfinder (Dobie et al. 2019)](https://arxiv.org/abs/1903.01481)
 <a href="https://arxiv.org/abs/1903.01481"><img src="images/askap_gw170817.png?raw=true"/></a>
 
 #### [A turnover in the radio lightcurve of GW170817 (Dobie et al. 2018)](https://arxiv.org/abs/1803.06853)
@@ -11,6 +13,8 @@ Below you can find a list of all of my [first author publications](#refereed-pub
 ---
 
 ## Refereed publications (co-author)
+I have co-authored 11 publications with over 1900 citations between them.
+
 #### [Serendipitous Discovery of PSR J1431-6328 as a Highly-Polarized Point Source with the Australian SKA Pathfinder (Kaplan et al. 2019)](https://arxiv.org/abs/1908.03163)
 <a href="https://arxiv.org/abs/1908.03163"><img src="images/kaplan-2019.png?raw=true"/></a>
 
