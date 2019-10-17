@@ -2,7 +2,7 @@
 Below you can find a list of all of my [first author publications](#refereed-publications-first-author), [co-authored publications](#refereed-publications-co-author)
 
 ## Refereed publications (first author)
-I have written two first author publications with over 60 citations between them. My paper "A turnover in the radio lightcurve of GW170817 (Dobie et al. 2018)" was awarded the University of Sydney Faculty of Science Postgraduate Research Prize for Outstanding Academic Achievement in 2019.
+I have written two first author publications with over 60 citations between them. My paper _A turnover in the radio lightcurve of GW170817_ was awarded the University of Sydney Faculty of Science Postgraduate Research Prize for Outstanding Academic Achievement in 2019.
 
 #### [An optimised gravitational wave follow-up strategy with the Australian Square Kilometre Array Pathfinder (Dobie et al. 2019)](https://arxiv.org/abs/1903.01481)
 <a href="https://arxiv.org/abs/1903.01481"><img src="images/askap_gw170817.png?raw=true"/></a>
