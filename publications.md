@@ -1,5 +1,5 @@
 # Publications
-Below you can find a list of all of my [first author publications](#refereed-publications-first-author), [co-authored publications](#refereed-publications-co-author)
+Below you can find a list of all of my [first author publications](#refereed-publications-first-author) and [co-authored publications](#refereed-publications-co-author).
 
 ## Refereed publications (first author)
 I have written two first author publications with over 60 citations between them. My paper _A turnover in the radio lightcurve of GW170817_ was awarded the University of Sydney Faculty of Science Postgraduate Research Prize for Outstanding Academic Achievement in 2019.
