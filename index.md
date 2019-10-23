@@ -27,7 +27,7 @@ An ADS library containing my refereed publications can be found <a href="https:/
 
 ---
 
-Along with general tuition of various undergraduate physics courses, I helped develop <a href="https://www.coursera.org/learn/data-driven-astronomy">Data Driven Astronomy</a>, offered by the University of Sydney via Coursera.
+Along with general tuition of various undergraduate physics courses, I helped develop <a href="https://www.coursera.org/learn/data-driven-astronomy">Data Driven Astronomy</a>, offered by the University of Sydney via Coursera, which was awarded The Vice Chancellor's Award for Outstanding Educational Engagement and Innovation in 2018.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IzVETSVp4Nw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -39,7 +39,7 @@ I have also developed modules for the <a href="http://growth.caltech.edu/growth-
 
 ---
 
-I have a strong passion for communicating my research to the public and have had the opportunity to do that at Sydney Observatory since 2016. In 2017 I spent two weeks working as the CAASTRO Astronomer In Residence at Uluru, and have given talks to high schools, undergraduate students and the general public.
+I have a strong passion for communicating my research to the public and have had the opportunity to do that at Sydney Observatory since 2016. In 2017 I spent two weeks working as the CAASTRO Astronomer In Residence at Uluru, and have given talks to high schools, undergraduate students and the general public throughout the course of my PhD.
 
 My involvement in the first discovery of a neutron star merger attracted national media attention, including articles in the <a href="https://www.smh.com.au/technology/revelation-of-cosmic-secrets-triggers-a-frenzy-of-global-scientific-activity-20171016-gz1hmw.html">Sydney Morning Herald</a>, <a href="https://www.theaustralian.com.au/news/health-science/neutron-star-collision-a-turning-point-in-scientific-history/news-story/45d782fc44bcc447dd7abbd831bd709d">The Australian</a> and <a href="https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106">The Conversation</a>.
 
