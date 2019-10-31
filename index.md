@@ -17,14 +17,16 @@ I have written 4 first-author papers and am a co-author on 11 more. My h-index i
 
 An ADS library containing my refereed publications can be found <a href="https://ui.adsabs.harvard.edu/public-libraries/PCsVV4a_S--oQvEwCMNCGA">here</a>, while summaries of all of my publications can be found <a href="/publications">here</a>. Some highlights can be found below
 
+### [An ASKAP search for a radio counterpart to the first high-significance neutron star-black holemerger LIGO/Virgo S190814bv](https://arxiv.org/abs/1910.13647)
+<a href="https://arxiv.org/abs/1910.13647"><img src="images/S190814bv_constraints.PNG?raw=true"/></a>
+
 ### <a href="https://arxiv.org/abs/1803.06853">A turnover in the radio lightcurve of GW170817</a>
 <a href="https://arxiv.org/abs/1803.06853"><img src="images/radio_turnover.png?raw=true"/></a>
 
 ### [Constraining properties of neutron star merger outflows with radio observations](https://arxiv.org/abs/1910.13662)
 <a href="https://arxiv.org/abs/1910.13662"><img src="images/vlbi_prospects.PNG?raw=true"/></a>
 
-### [An ASKAP search for a radio counterpart to the first high-significance neutron star-black holemerger LIGO/Virgo S190814bv](https://arxiv.org/abs/1910.13647)
-<a href="https://arxiv.org/abs/1910.13647"><img src="images/S190814bv_constraints.PNG?raw=true"/></a>
+
 
 ## Teaching
 
