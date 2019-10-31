@@ -13,7 +13,7 @@ You can find my CV <a href="/pdf/CV.pdf">here</a> and read about my [publication
 
 ---
 
-I have written 4 first-author papers and am a co-author on 11 more. My h-index is 10 with over 1900 total citations. I also regularly publish transients results circulated via the <a href="http://www.astronomerstelegram.org">Astronomer's Telegram</a> and the <a href="https://gcn.gsfc.nasa.gov/gcn3_archive.html">Gamma-ray Coordinates Network</a>.
+I have written 4 first-author papers and am a co-author on 12 more. My h-index is 10 with over 1900 total citations. I also regularly publish transients results circulated via the <a href="http://www.astronomerstelegram.org">Astronomer's Telegram</a> and the <a href="https://gcn.gsfc.nasa.gov/gcn3_archive.html">Gamma-ray Coordinates Network</a>.
 
 An ADS library containing my refereed publications can be found <a href="https://ui.adsabs.harvard.edu/public-libraries/PCsVV4a_S--oQvEwCMNCGA">here</a>, while summaries of all of my publications can be found <a href="/publications">here</a>. Some highlights can be found below
 
