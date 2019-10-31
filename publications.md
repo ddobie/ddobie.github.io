@@ -1,8 +1,15 @@
 # Publications
-Below you can find a list of all of my [first author publications](#refereed-publications-first-author) and [co-authored publications](#refereed-publications-co-author).
+Below you can find a list of all of my [first author publications](#publications-first-author) and [co-authored publications](#publications-co-author).
 
-## Refereed publications (first author)
-I have written two first author publications with over 60 citations between them. My paper _A turnover in the radio lightcurve of GW170817_ was awarded the University of Sydney Faculty of Science Postgraduate Research Prize for Outstanding Academic Achievement in 2019.
+## Publications (first author)
+I have written four first author publications with over 60 citations between them. My paper _A turnover in the radio lightcurve of GW170817_ was awarded the University of Sydney Faculty of Science Postgraduate Research Prize for Outstanding Academic Achievement in 2019.
+
+#### [Constraining properties of neutron star merger outflows with radio observations (Dobie et al. 2019c)](https://arxiv.org/abs/1910.13662)
+<a href="https://arxiv.org/abs/1910.13662"><img src="images/vlbi_prospects.png?raw=true"/</a>
+
+#### [An ASKAP search for a radio counterpart to the first high-significance neutron star-black holemerger LIGO/Virgo S190814bv (Dobie et al. 2019b)](https://arxiv.org/abs/1910.13647)
+<a href="https://arxiv.org/abs/1910.13647"><img src="images/s190814bv_constraints.png?raw=true"/</a>
+
 
 #### [An optimised gravitational wave follow-up strategy with the Australian Square Kilometre Array Pathfinder (Dobie et al. 2019)](https://arxiv.org/abs/1903.01481)
 <a href="https://arxiv.org/abs/1903.01481"><img src="images/askap_gw170817.png?raw=true"/></a>
@@ -12,7 +19,7 @@ I have written two first author publications with over 60 citations between them
 
 ---
 
-## Refereed publications (co-author)
+## Publications (co-author)
 I have co-authored 11 publications with over 1900 citations between them. These publications span a wide range of topics including gravitational wave follow-up (my main focus), asteroseismology and pulsar astronomy.
 
 #### [Serendipitous Discovery of PSR J1431-6328 as a Highly-Polarized Point Source with the Australian SKA Pathfinder (Kaplan et al. 2019)](https://arxiv.org/abs/1908.03163)
