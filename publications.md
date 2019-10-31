@@ -20,7 +20,12 @@ I have written four first author publications with over 60 citations between the
 ---
 
 ## Publications (co-author)
-I have co-authored 11 publications with over 1900 citations between them. These publications span a wide range of topics including gravitational wave follow-up (my main focus), asteroseismology and pulsar astronomy.
+I have co-authored 12 publications with over 1900 citations between them. These publications span a wide range of topics including gravitational wave follow-up (my main focus), asteroseismology and pulsar astronomy.
+
+#### [GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger (Andreoni & Goldstein et al. 2019)](https://arxiv.org/abs/1910.13409)
+<a href="https://arxiv.org/abs/1910.13409"><img src="images/andreoni-goldstein-2019.png?raw=true"/></a>
+
+
 
 #### [Serendipitous Discovery of PSR J1431-6328 as a Highly-Polarized Point Source with the Australian SKA Pathfinder (Kaplan et al. 2019)](https://arxiv.org/abs/1908.03163)
 <a href="https://arxiv.org/abs/1908.03163"><img src="images/kaplan-2019.png?raw=true"/></a>
