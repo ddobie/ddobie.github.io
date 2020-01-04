@@ -20,7 +20,10 @@ I have written four first author publications with over 60 citations between the
 ---
 
 ## Publications (co-author)
-I have co-authored 12 publications with over 1900 citations between them. These publications span a wide range of topics including gravitational wave follow-up (my main focus), asteroseismology and pulsar astronomy.
+I have co-authored 13 publications with over 1900 citations between them. These publications span a wide range of topics including gravitational wave follow-up (my main focus), asteroseismology and pulsar astronomy.
+
+#### [Gaia GraL: Gaia DR2 Gravitational Lens Systems. V. Doubly-imaged QSOs discovered from entropy and wavelets (Krone-Martins et al. 2019)](https://arxiv.org/abs/1912.08977)
+<a href="https://arxiv.org/abs/1912.08977"><img src="images/krone-martins-2019.png?raw=true"/></a>
 
 #### [GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger (Andreoni & Goldstein et al. 2019)](https://arxiv.org/abs/1910.13409)
 <a href="https://arxiv.org/abs/1910.13409"><img src="images/andreoni-goldstein-2019.png?raw=true"/></a>
