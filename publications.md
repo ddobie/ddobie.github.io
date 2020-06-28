@@ -23,17 +23,17 @@ I have written four first author publications with over 90 citations between the
 I have co-authored 16 publications with over 2700 citations between them. These publications span a wide range of topics including gravitational wave follow-up (my main focus), asteroseismology, gravitational lensing and pulsar astronomy.
 
 #### [A non-equipartition shockwave traveling in a dense circumstellar environment around SN2020oi (Horesh et al. 2020)](https://arxiv.org/abs/2006.13952)
-<a href="https://arxiv.org/abs/2006.13952"><img src="images/horesh-2019.png?raw=true"/></a>
+<a href="https://arxiv.org/abs/2006.13952"><img src="images/horesh-2020.png?raw=true"/></a>
 
 <br>
 
 #### [Kilonova Luminosity Function Constraints based on Zwicky Transient Facility Searches for 13 Neutron Star Mergers (Kasliwal et al. 2020)](https://arxiv.org/abs/2006.11306)
-<a href="https://arxiv.org/abs/2006.11306"><img src="images/kasliwal-2019.png?raw=true"/></a>
+<a href="https://arxiv.org/abs/2006.11306"><img src="images/kasliwal-2020.png?raw=true"/></a>
 
 <br>
 
 #### [The Panchromatic Afterglow of GW170817: The full uniform dataset, modeling, comparison with previous results and implications (Makhathini et al. 2020)](https://arxiv.org/abs/2006.02382)
-<a href="https://arxiv.org/abs/2006.02382"><img src="images/makhathini-2019.png?raw=true"/></a>
+<a href="https://arxiv.org/abs/2006.02382"><img src="images/makhathini-2020.png?raw=true"/></a>
 
 <br>
 
