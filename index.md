@@ -44,7 +44,11 @@ I have also developed modules for the <a href="http://growth.caltech.edu/growth-
 
 ---
 
-I have a strong passion for communicating my research to the public and have had the opportunity to do that at Sydney Observatory since 2016. In 2017 I spent two weeks working as the CAASTRO Astronomer In Residence at Uluru, and have given talks to high schools, undergraduate students and the general public throughout the course of my PhD.
+I have a strong passion for communicating my research to the public and have had the opportunity to do that at Sydney Observatory since 2016. In 2017 I spent two weeks working as the CAASTRO Astronomer In Residence at Uluru, and have given talks to high schools, undergraduate students and the general public throughout the course of my PhD. I recently gave a Q&A about my work titled "Bursts, Jets and Waves: Probing the Universe with Gravitational Waves and Light."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tf_NrmkMtSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You can find a writeup about my search for a radio counterpart to GW190814bv <a href="https://blog.csiro.au/askap-gravitational-waves-discovery/">here</a>.
 
 My involvement in the first discovery of a neutron star merger attracted national media attention, including articles in the <a href="https://www.smh.com.au/technology/revelation-of-cosmic-secrets-triggers-a-frenzy-of-global-scientific-activity-20171016-gz1hmw.html">Sydney Morning Herald</a>, <a href="https://www.theaustralian.com.au/news/health-science/neutron-star-collision-a-turning-point-in-scientific-history/news-story/45d782fc44bcc447dd7abbd831bd709d">The Australian</a> and <a href="https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106">The Conversation</a>.
 
