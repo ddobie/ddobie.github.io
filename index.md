@@ -2,7 +2,7 @@
 
 ---
 
-I am a third-year PhD student searching for radio transients, but with an interest in all transient behaviour.
+I am an OzGrav Postdoctoral Research Fellow at the Swinburne University of Technology searching for radio transients, but with an interest in all transient behaviour.
 
 I am the Principal Investigator on a project to observe radio afterglows of gravitational wave events with the Australia Telescope Compact Array, for which we have been allocated 750 hours of observing time. I am also a member of the JAGWAR collaboration, which uses the worlds leading radio facilities for gravitational wave follow-up and am a co-Investigator on proposals with the Australian Square Kilometre Array Pathfinder, the Very Large Array, and the Giant Metrewave Radio Telescope.
 
@@ -13,7 +13,7 @@ You can find my CV <a href="/pdf/CV.pdf" target='_blank'>here</a> and read about
 
 ---
 
-I have written 4 first-author papers and am a co-author on 13 more. My h-index is 10 with over 1900 total citations. I also regularly publish transients results circulated via the <a href="http://www.astronomerstelegram.org">Astronomer's Telegram</a> and the <a href="https://gcn.gsfc.nasa.gov/gcn3_archive.html">Gamma-ray Coordinates Network</a>.
+I have written 4 first-author papers and am a co-author on 18 more. My h-index is 10 with over 3500 total citations. I also regularly publish transients results circulated via the <a href="http://www.astronomerstelegram.org">Astronomer's Telegram</a> and the <a href="https://gcn.gsfc.nasa.gov/gcn3_archive.html">Gamma-ray Coordinates Network</a>.
 
 An ADS library containing my refereed publications can be found <a href="https://ui.adsabs.harvard.edu/public-libraries/PCsVV4a_S--oQvEwCMNCGA">here</a>, while summaries of all of my publications can be found <a href="/publications">here</a>. Some highlights can be found below
 
